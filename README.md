@@ -32,7 +32,7 @@ commercialbusiness@sirineotechnologies.com
 
 ## Nossas Redes Sociais
 
-by 
+by   
 
 [Cirineu - engereggae Linkedin](https://www.linkedin.com/in/cirineu-carvalho-fernandes-20490a37/)
 
@@ -49,6 +49,8 @@ Redes Sociais:
 [SiriNEO Technologies - Twitter](https://twitter.com/sirineotech)
 
 [SiriNEO Technologies - YouTube](https://www.youtube.com/channel/UCXL7DX-jfyiIgiR7kq9hfNw)
+
+[SiriNEO Technologies - Facebook](https://web.facebook.com/Sirineotechnologies/)
 
 
 
