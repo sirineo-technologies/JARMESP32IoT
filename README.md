@@ -23,7 +23,7 @@ Monte sua Solução de IoT com a nossa JARM ESP32 IoT, e crie
 soluções otimizadas para seus problemas de conectividade !
 
 <p align="center">
-<img src="http://sirineotechnologies.com/wp-content/uploads/2021/05/JARM-ESP32-ISO.jpg" />
+<img src="http://sirineotechnologies.com/wp-content/uploads/2021/05/JARM-ESP32-ISO.jpg">
 </p align="center">
 
 
