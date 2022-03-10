@@ -1,4 +1,4 @@
-## Github sobre a JARMESP32IOT
+## Sobre a JARMESP32IOT
 
 A JARM ESP32 IoT é uma micro plataforma de hardware com um
 novo formato mecânico “JARM”, desenvolvida especificamente para projetos
@@ -28,8 +28,7 @@ soluções otimizadas para seus problemas de conectividade !
 
 
 
-
-
-Cirineu - engereggae
+by 
+[Cirineu - engereggae Linkedin](https://www.linkedin.com/in/cirineu-carvalho-fernandes-20490a37/)
 
 
