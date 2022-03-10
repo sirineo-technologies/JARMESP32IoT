@@ -38,11 +38,11 @@ by
 
 Redes Sociais:
 
-[SiriNEO Technologies - site] (http://sirineotechnologies.com/)
+[SiriNEO Technologies - site] (http://sirineotechnologies.com)
 
-[SiriNEO Technologies - Linkedin] (https://www.linkedin.com/company/sirineo-technologies/)
+[SiriNEO Technologies - Linkedin] (https://www.linkedin.com/company/sirineo-technologies)
 
-[SiriNEO Technologies - Instagram] (https://www.instagram.com/sirineotechnologies/)
+[SiriNEO Technologies - Instagram] (https://www.instagram.com/sirineotechnologies)
 
 [SiriNEO Technologies - Tiktok] (https://www.tiktok.com/@sirineotechnologies)   
 
