@@ -37,6 +37,10 @@ a sua própria Plataforma de Hardware baseada no ESP32-WROOM, com a finalidades 
 Em agosto de 2020, em sua página oficial a  Espressif Systems, publicou um breve artigo sobre nossa Plataforma [JARMESP32IoT](https://www.espressif.com/en/news/JARM_ESP32), que apresentou ao mercado mundial a
 nossa plataforma brasileira.  
 
+<p align="center">
+<img width="475" height="368" src="http://sirineotechnologies.com/wp-content/uploads/2022/03/jarmesp32-iso-com-antenna.png">
+</p align="center">
+
 ## Nosso e-mail
 
 <a target="_blank" href="mailto:sirineotechnologies.adm@gmail.com">
