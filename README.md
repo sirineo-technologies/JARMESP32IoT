@@ -26,6 +26,11 @@ soluções otimizadas para seus problemas de conectividade !
 <img width="340" height="321" src="http://sirineotechnologies.com/wp-content/uploads/2021/05/JARM-ESP32-ISO.jpg">
 </p align="center">
 
+## História da JARMESP32IOT
+
+A Espressif Systems, lançou o [ESP32](https://www.espressif.com/en/products/socs/esp32), um poderoso microcontrolador rico em recursos com Wi-Fi integrado e
+Conectividade Bluetooth para uma ampla gama de aplicções. No mercado o DEVKIT mais comum era o NODEMCU32, 
+
 ## Nosso e-mail
 
 <a target="_blank" href="mailto:sirineotechnologies.adm@gmail.com">
