@@ -53,6 +53,8 @@ de um protótipo de estação de monitoramento com redes LoRa para o monitoramen
 <img width="479" height="640" src="http://sirineotechnologies.com/wp-content/uploads/2022/03/photo1633185140-1.jpeg">
 </p align="center">
 
+Assistam esse [vídeo do youtube](https://www.youtube.com/watch?v=SOPX40aBRIg&ab_channel=SiriNEOTechnologies) e veja mais um pouco das funcionalidades da JARMESP32IoT.
+
 ## Nosso e-mail
 
 <a target="_blank" href="mailto:sirineotechnologies.adm@gmail.com">
