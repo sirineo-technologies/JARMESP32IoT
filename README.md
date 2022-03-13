@@ -37,7 +37,7 @@ a sua própria Plataforma de Hardware baseada no ESP32-WROOM, com a finalidade d
 Em agosto de 2020, em sua página oficial a  Espressif Systems, publicou um breve artigo sobre nossa Plataforma [JARMESP32IoT](https://www.espressif.com/en/news/JARM_ESP32), que apresentou ao mercado mundial a
 nossa plataforma brasileira. 
 
-Diferentes dos padrões de DEVKITs do mercado mundial a JARMESP32IoT, já vem com uma quantidade incrível de periféricos prontos para a Internet das Coisas, e ainda um socquete 
+Diferentes dos padrões de DEVKITs do mercado mundial a JARMESP32IoT, já vem com uma quantidade incrível de periféricos prontos para a Internet das Coisas, e ainda um soquete 
 padrão xbee para encaixe de módulos sem fio do mercado. 
 
 <p align="center">
