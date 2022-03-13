@@ -34,11 +34,11 @@ Conectividade Bluetooth para uma ampla gama de aplicções. No mercado o DEVKIT 
 A SiriNEO Technologies então baseando-se no formato padrão "JARM" do projetista [Cirineu](https://www.linkedin.com/in/cirineu-carvalho-fernandes-20490a37/),  desenvolveu 
 a sua própria Plataforma de Hardware baseada no ESP32-WROOM, com a finalidade de expandir as funcionalidade do ESP32 com a de outros protocolos IoT como LoRa, Zigbee e SigFOX.
 
-Em agosto de 2020, em sua página oficial a  Espressif Systems, publicou um breve artigo sobre nossa Plataforma [JARMESP32IoT](https://www.espressif.com/en/news/JARM_ESP32), que apresentou ao mercado mundial a
+Em agosto de 2020, em sua página oficial, a  Espressif Systems publicou um breve artigo sobre nossa Plataforma [JARMESP32IoT](https://www.espressif.com/en/news/JARM_ESP32), apresentando ao mercado mundial a
 nossa plataforma brasileira. 
 
-Diferentes dos padrões de DEVKITs do mercado mundial a JARMESP32IoT, já vem com uma quantidade incrível de periféricos prontos para a Internet das Coisas, e ainda um soquete 
-padrão xbee para encaixe de módulos sem fio do mercado. 
+Diferentes dos padrões de DEVKITs do mercado mundial a JARMESP32IoT, já vem com uma quantidade incrível de periféricos prontos para a Internet das Coisas, e ainda, um soquete 
+padrão xbee para encaixe de módulos sem fio mais comuns do mercado comunicando via Interface SPI ou Serial. 
 
 <p align="center">
 <img width="475" height="368" src="http://sirineotechnologies.com/wp-content/uploads/2022/03/jarmesp32-iso-com-antenna.png">
