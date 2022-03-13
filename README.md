@@ -53,6 +53,12 @@ de um protótipo de estação de monitoramento com redes LoRa para o monitoramen
 <img width="479" height="640" src="http://sirineotechnologies.com/wp-content/uploads/2022/03/photo1633185140-1.jpeg">
 </p align="center">
 
+Praticidade e Versatilidade são características que você vai encrontrar em nossa Plataforma JARMESP32IOT.
+
+<p align="center">
+<img width="640" height="480" src="http://sirineotechnologies.com/wp-content/uploads/2022/03/jarmesp32g.jpg">
+</p align="center">
+
 Assistam esse [vídeo do youtube](https://www.youtube.com/watch?v=SOPX40aBRIg&ab_channel=SiriNEOTechnologies) e veja mais um pouco das funcionalidades da JARMESP32IoT.
 
 ## Nosso e-mail
@@ -63,7 +69,7 @@ Assistam esse [vídeo do youtube](https://www.youtube.com/watch?v=SOPX40aBRIg&ab
 
 ## Nossas Redes Sociais
 
-Ajude o desenvolvimento de Hardware no Brasil ! Nos ajude compartilhand, curtindo e comentando nossas publicações em nossas Redes Sociais.
+Ajude o desenvolvimento de Hardware no Brasil ! Nos ajude compartilhando, curtindo e comentando nossas publicações em nossas Redes Sociais.
 
 <br>
 <a target="_blank" href="http://sirineotechnologies.com/">
