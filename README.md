@@ -46,6 +46,13 @@ padrão xbee para encaixe de módulos sem fio do mercado.
 
 ## Alguns acoplamentos da JARMESP32IOT
 
+A JARMESP32IoT está sendo utilizada em projetos de IoT voltado a Agricultura de Precisão no Brasil. A UEG e UFG já utilizam esse equipamento para o desenvolvimento
+de estação de monitoramento com redes LoRa para o monitoramento de um pequeno criatório de pintinhos em Posse-GO. 
+
+<p align="center">
+<img width="479" height="640" src="http://sirineotechnologies.com/wp-content/uploads/2022/03/photo1633185140-1.jpeg">
+</p align="center">
+
 ## Nosso e-mail
 
 <a target="_blank" href="mailto:sirineotechnologies.adm@gmail.com">
