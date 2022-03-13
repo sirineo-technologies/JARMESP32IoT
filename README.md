@@ -63,6 +63,8 @@ Assistam esse [vídeo do youtube](https://www.youtube.com/watch?v=SOPX40aBRIg&ab
 
 ## Nossas Redes Sociais
 
+Ajude o desenvolvimento de Hardware no Brasil ! Nos ajude compartilhand, curtindo e comentando nossas publicações em nossas Redes Sociais.
+
 <br>
 <a target="_blank" href="http://sirineotechnologies.com/">
   <img align="left" alt="LinkdeIN" width="22px" src="https://visualpharm.com/assets/378/Website-595b40b65ba036ed117d1098.svg" />
