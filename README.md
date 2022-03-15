@@ -69,7 +69,7 @@ Assistam esse [vídeo do youtube](https://www.youtube.com/watch?v=SOPX40aBRIg&ab
 
 ## Nossas Redes Sociais
 
-Ajude o desenvolvimento de Hardware no Brasil ! Nos ajude compartilhando, curtindo e comentando nossas publicações em nossas Redes Sociais.
+Ajude o desenvolvimento de hardware no Brasil ! Nos ajude compartilhando, curtindo e comentando nossas publicações em nossas Redes Sociais.
 
 <br>
 <a target="_blank" href="http://sirineotechnologies.com/">
